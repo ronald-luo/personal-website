@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1491" height="1344" viewBox="0 0 1491 1344">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_26" data-name="Rectangle 26" width="1491" height="1344" transform="translate(429)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_1" data-name="Mask Group 1" transform="translate(-429)" clip-path="url(#clip-path)">
+    <g id="Group_16" data-name="Group 16">
+      <g id="circle_background" data-name="circle background" transform="translate(561.801 -202.199)">
+        <path id="Path_1" data-name="Path 1" d="M586.2,0c323.751,0,586.2,271.375,586.2,606.133s-262.452,606.133-586.2,606.133S0,940.891,0,606.133,262.452,0,586.2,0Z" transform="translate(166.699 167.699)" fill="#da4278" opacity="0.436"/>
+        <path id="Path_2" data-name="Path 2" d="M753.363,0c416.071,0,753.363,346.216,753.363,773.294s-337.292,773.294-753.363,773.294S0,1200.372,0,773.294,337.292,0,753.363,0Z" transform="translate(0)" fill="#da4278" opacity="0.096"/>
+      </g>
+      <circle id="opaque_cloud" data-name="opaque cloud" cx="394" cy="394" r="394" transform="translate(932 178)" fill="#da4278"/>
+      <g id="cloud_bottom_right" data-name="cloud bottom right">
+        <rect id="Rectangle_19" data-name="Rectangle 19" width="425" height="125" rx="62.5" transform="translate(1495 834)" fill="#72d0db" opacity="0.804"/>
+        <rect id="cloud-2" width="425" height="125" rx="62.5" transform="translate(1326 771)" fill="#72d0db" opacity="0.579"/>
+      </g>
+      <g id="cloud_top_left" data-name="cloud top left">
+        <rect id="Rectangle_6" data-name="Rectangle 6" width="425" height="125" rx="62.5" transform="translate(667 190)" fill="#72d0db" opacity="0.651"/>
+        <rect id="cloud-1" width="425" height="125" rx="62.5" transform="translate(880 253)" fill="#72d0db" opacity="0.703"/>
+      </g>
+      <g id="stars">
+        <g id="triangles" transform="translate(1061 -405)">
+          <path id="Polygon_1" data-name="Polygon 1" d="M38,0,76,66H0Z" transform="translate(117.507 919.189) rotate(25)" fill="#fff"/>
+          <path id="Polygon_2" data-name="Polygon 2" d="M34.5,0,69,59H0Z" transform="matrix(0.951, -0.309, 0.309, 0.951, 734.645, 864.14)" fill="#fff"/>
+          <path id="Polygon_3" data-name="Polygon 3" d="M11.5,0,23,20H0Z" transform="matrix(0.809, -0.588, 0.588, 0.809, 344.941, 832.669)" fill="#fff"/>
+        </g>
+        <g id="triangles-2" data-name="triangles" transform="translate(586.879 -333.663) rotate(14)">
+          <path id="Polygon_1-2" data-name="Polygon 1" d="M38,0,76,66H0Z" transform="translate(117.507 919.189) rotate(25)" fill="#fff"/>
+          <path id="Polygon_2-2" data-name="Polygon 2" d="M34.5,0,69,59H0Z" transform="matrix(0.951, -0.309, 0.309, 0.951, 734.645, 864.14)" fill="#fff"/>
+          <path id="Polygon_3-2" data-name="Polygon 3" d="M11.5,0,23,20H0Z" transform="matrix(0.809, -0.588, 0.588, 0.809, 344.941, 832.669)" fill="#fff"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

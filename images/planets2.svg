@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="414" height="406" viewBox="0 0 414 406">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_27" data-name="Rectangle 27" width="414" height="406" transform="translate(0 221)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_1" data-name="Mask Group 1" transform="translate(0 -221)" clip-path="url(#clip-path)">
+    <g id="planet" transform="translate(-61.653 354.174) rotate(-20)">
+      <g id="circle_background" data-name="circle background" transform="translate(26.374 -88.396)">
+        <path id="Path_1" data-name="Path 1" d="M169.141,0c93.414,0,169.141,78.3,169.141,174.891S262.554,349.783,169.141,349.783,0,271.481,0,174.891,75.727,0,169.141,0Z" transform="translate(48.099 48.387)" fill="#da4278" opacity="0.436"/>
+        <path id="Path_2" data-name="Path 2" d="M217.373,0C337.424,0,434.745,99.9,434.745,223.123S337.424,446.247,217.373,446.247,0,346.351,0,223.123,97.321,0,217.373,0Z" transform="translate(0)" fill="#da4278" opacity="0.096"/>
+      </g>
+      <ellipse id="opaque_cloud" data-name="opaque cloud" cx="114" cy="113" rx="114" ry="113" transform="translate(132.12 21.776)" fill="#da4278"/>
+      <g id="stars" transform="translate(-11.88 89.444)">
+        <g id="triangles" transform="translate(208.149 0)">
+          <path id="Polygon_1" data-name="Polygon 1" d="M10.964,0,21.929,19.043H0Z" transform="translate(8.048 28.865) rotate(25)" fill="#fff"/>
+          <path id="Polygon_2" data-name="Polygon 2" d="M9.954,0l9.954,17.024H0Z" transform="matrix(0.951, -0.309, 0.309, 0.951, 186.115, 12.981)" fill="#fff"/>
+          <path id="Polygon_3" data-name="Polygon 3" d="M3.318,0,6.636,5.771H0Z" transform="matrix(0.809, -0.588, 0.588, 0.809, 73.671, 3.901)" fill="#fff"/>
+        </g>
+        <g id="triangles-2" data-name="triangles" transform="translate(13.4 19.818) rotate(14)">
+          <path id="Polygon_1-2" data-name="Polygon 1" d="M10.964,0,21.929,19.043H0Z" transform="translate(8.048 28.865) rotate(25)" fill="#fff"/>
+          <path id="Polygon_2-2" data-name="Polygon 2" d="M9.954,0l9.954,17.024H0Z" transform="matrix(0.951, -0.309, 0.309, 0.951, 186.115, 12.981)" fill="#fff"/>
+          <path id="Polygon_3-2" data-name="Polygon 3" d="M3.318,0,6.636,5.771H0Z" transform="matrix(0.809, -0.588, 0.588, 0.809, 73.671, 3.901)" fill="#fff"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

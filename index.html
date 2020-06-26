@@ -22,7 +22,7 @@
     <div class="container">
         
         <header>
-        <a href="#" class="logo">rluo</a> 
+        <a href="https://ronald-luo.com/" class="logo">rluo</a> 
         <img src="/images/menu.svg" class="burger" id="burger">
         </header>
         
@@ -42,7 +42,7 @@
     <div class="outer">
         
         
-        <div class="webpage-title">
+        <div class="webpage-title lax" data-lax-opacity="0 1, 150 0">
             <h1>ronald <div>luo</div></h1>
             <h2 class="subtitle">mac alum</h2>
         </div>
@@ -51,12 +51,12 @@
         
         <div class="inner">
             <div class="frontpage">
-                <img src="/images/planets3.svg" alt="planet background" class="planet">
-                <img src="/images/cloud-tl.svg" alt="cloud" class="clouds tl">
-                <img src="/images/cloud-tl.svg" alt="cloud" class="clouds mr">
-                <img src="/images/cloud-tl.svg" alt="cloud" class="clouds bl">
+                <img src="/images/planets3.svg" alt="planet background" class="planet lax" data-lax-opacity="0 1, 300 0">
+                <img src="/images/cloud-tl.svg" alt="cloud" class="clouds tl lax" data-lax-translate-x="0 0, 300 -350" data-lax-opacity="0 1, 150 0">
+                <img src="/images/cloud-tl.svg" alt="cloud" class="clouds mr lax" data-lax-translate-x="0 0, 300 350" data-lax-opacity="0 1, 150 0">
+                <img src="/images/cloud-tl.svg" alt="cloud" class="clouds bl lax" data-lax-translate-x="0 0, 300 -350" data-lax-opacity="0 1, 150 0">
 
-                <div class="v1"></div>
+                <div class="line lax" data-lax-translate-y="0 0, 300  -800" data-lax-opacity="0 1, 150 0"> </div>
             </div>
         </div>
     </div>
@@ -154,6 +154,26 @@
             });
         })();
     </script>
+
+
+
+    <script src="https://cdn.jsdelivr.net/npm/lax.js"></script>
+
+    <script>
+        window.onload = function() {
+            lax.setup() // init
+
+            const updateLax = () => {
+                lax.update(window.scrollY)
+                window.requestAnimationFrame(updateLax)
+            }
+
+        window.requestAnimationFrame(updateLax)
+        }
+    </script>
+
+
+
 
 </body>
 

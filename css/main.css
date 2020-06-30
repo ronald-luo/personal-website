@@ -140,7 +140,7 @@ header {
     border-width: 13px 10px 0 10px;
     border-color: white transparent transparent transparent;
     right: -.6225em;
-    bottom: -2px;
+    transform: rotate(180deg);
 }
 
 .title::after {
@@ -205,6 +205,7 @@ p {
 
 BLOCKQUOTE {
     color:  #D8D8D8;
+    line-height: 1.7rem;
 }
 
 .clouds {

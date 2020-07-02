@@ -9,7 +9,7 @@ function text() {
 }
 
 function setup() {
-    createCanvas(500,500);
+    createCanvas(320,500);
     w = floor(width/resolution);
     h = floor(height/resolution)
     frameRate(9)

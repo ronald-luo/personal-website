@@ -1,5 +1,5 @@
 let snake;
-resolution = 10;
+resolution = 20;
 let food;
 let w;
 let h;
@@ -10,8 +10,8 @@ function text() {
 
 function setup() {
     createCanvas(windowWidth,windowHeight);
-    w = floor(width/resolution);
-    h = floor(height/resolution)
+    w = floor(windowWidth/resolution);
+    h = floor(windowHeight/resolution)
     frameRate(9)
     snake = new Snake();
     foodlocation();

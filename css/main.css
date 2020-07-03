@@ -348,7 +348,7 @@ BLOCKQUOTE {
         left: 0;
         top: 0;
         width: 100vw;
-        height: 80vh;
+        height: 69vh;
     }
 
     .inner {
@@ -384,10 +384,6 @@ BLOCKQUOTE {
         border-bottom: 5px solid #DA4278
     }
 
-    .about-title {
-        visibility: hidden;
-
-    }
 
     p {
         margin-right: 250px;
@@ -419,6 +415,11 @@ BLOCKQUOTE {
         height: 110px;
         top: 265px;
         left: 350px;
+
+    }
+
+    .about-title {
+        visibility: hidden;
 
     }
 

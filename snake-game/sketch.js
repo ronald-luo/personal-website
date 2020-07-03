@@ -4,10 +4,6 @@ let food;
 let w;
 let h;
 
-function text() {
-
-}
-
 function setup() {
     createCanvas(windowWidth,windowHeight);
     w = floor(windowWidth/resolution);
@@ -43,6 +39,8 @@ function draw() {
     fill(114, 208, 219);
     rect(food.x, food.y, 1, 1);
 }
+
+
 
 function keyPressed() {
     if (keyCode === UP_ARROW) {
@@ -109,3 +107,4 @@ function handleTouchMove(evt) {
     xDown = null;
     yDown = null;                                             
 };
+
